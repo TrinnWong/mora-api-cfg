@@ -1,0 +1,5 @@
+{
+  "payloadJson": "{\u0022version\u0022:1,\u0022issuedAtUtc\u0022:\u00222026-10-20T14:17:28Z\u0022,\u0022expiresAtUtc\u0022:\u00222027-01-18T14:17:28Z\u0022,\u0022minApiVersion\u0022:\u00221.30.0\u0022,\u0022refreshIntervalMinutes\u0022:360,\u0022assignmentEpoch\u0022:1,\u0022endpoints\u0022:[{\u0022id\u0022:\u0022api-1\u0022,\u0022baseUrl\u0022:\u0022https://moraentretenimiento.com/api\u0022,\u0022weight\u0022:100,\u0022enabled\u0022:true}],\u0022revoked\u0022:[],\u0022manifestMirrors\u0022:[\u0022https://trinnwong.github.io/mora-api-cfg/mora-endpoints.json\u0022]}",
+  "sigEcdsa": "GrYrPMFUMw7np2uiu8d/Izm4jv5rt54bXMGGYpOjVXruNFMNQho\u002Bmf70g7So3rTmOKzpzHUKPxv4UalC/LYFuQ==",
+  "sigHmac": "c7176463b73808363dcafe34286a7d0dc569fb0098153f3d672b0ad3cb5183d6"
+}
